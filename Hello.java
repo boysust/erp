@@ -3,6 +3,8 @@ public  class Hello{
 		System.out.println("Hello GIT!!!");
 		System.out.println("hello git!!!");
 		System.out.println("HEllo git!!!");
+		System.out.println("sust");
+		System.out.println("测试合并");
 <<<<<<< HEAD
 		Admin admin = new Admin();
 		Emp emp = new Emp();
